@@ -1,0 +1,10 @@
+draw path
+store path as json
+xys, 
+
+
+drawing tool
+given n frequencies, add circles, draw path of stacked circles
+
+fitness estimator based on subtracting difference between the points
+
